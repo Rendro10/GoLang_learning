@@ -1,0 +1,28 @@
+go 1.20
+
+use (
+	./02variables
+	./03userinput
+	./04conversion
+	./05mytime
+	./06mypointers
+	./07myarray
+	./08myslices
+	./09mymaps
+	./10mystructs
+	./11ifelse
+	./12switchcase
+	./13loops
+	./14functions
+	./15method
+	./16deferkeyword
+	./17files
+	./18webrequest
+	./19urls
+	./20webreqverbs
+	./21bitmorejson
+	./23buildapi
+	./25mongoapi
+	./go_withSql
+	./sqliteConnect
+)
